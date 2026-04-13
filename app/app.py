@@ -14,7 +14,7 @@ if PROJECT_ROOT not in sys.path:
 if SRC_ROOT not in sys.path:
     sys.path.insert(0, SRC_ROOT)
 
-SERVER_URL = "http://localhost:8000"
+SERVER_URL = "https://cyberguard-api.onrender.com"
 
 def apply_ui() -> None:
     style = """
