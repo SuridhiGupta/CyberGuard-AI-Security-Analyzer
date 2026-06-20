@@ -36,10 +36,6 @@ Integrate with GitHub.
 
 ✔ Multiple Analysis Modes
 
-## Presentation
-
-[CyberGuard PPT](CyberGuard.pdf)
-
 ## Research Publication
 
 [CyberGuard IEEE](CyberGuardIEEE-2.pdf)
