@@ -7,6 +7,26 @@ Detect vulnerabilities before deployment.
 Predict severity.
 Generate secure fixes.
 Integrate with GitHub.
+## Tech Stack
+
+Backend:
+Python
+Flask
+
+ML:
+XGBoost
+Scikit-learn
+
+AI:
+Gemini API
+
+Frontend:
+Streamlit
+
+Dataset:
+NVD API
+CVE Dataset
+
 
 ## System Architecture
 
