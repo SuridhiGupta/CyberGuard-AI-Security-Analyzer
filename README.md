@@ -7,30 +7,31 @@ Detect vulnerabilities before deployment.
 Predict severity.
 Generate secure fixes.
 Integrate with GitHub.
+
 ## Tech Stack
 
-Backend:
-Python
-Flask
+Backend
+- Python
+- Flask
 
-ML:
-XGBoost
-Scikit-learn
+Machine Learning
+- XGBoost
+- Scikit-learn
 
-AI:
-Gemini API
+AI Integration
+- Gemini API
 
-Frontend:
-Streamlit
+Frontend
+- Streamlit
 
-Dataset:
-NVD API
-CVE Dataset
+Dataset
+- NVD API
+- CVE Dataset
 
 
 ## System Architecture
 
-![Architecture](Architecture.png.png)
+![Architecture](architecture.png)
 
 ## Dashboard
 
@@ -59,4 +60,4 @@ CVE Dataset
 ## Research Publication
 IEEE manuscript and research documentation included for academic reference.
 
-[CyberGuard IEEE](CyberGuardIEEE-2.pdf)
+[CyberGuard IEEE](CyberGuard_IEEE.pdf)
