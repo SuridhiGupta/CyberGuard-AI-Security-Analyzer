@@ -1,1 +1,16 @@
-# ML-Networking
+# 🛡 CyberGuard
+
+AI-Powered Real-Time Zero-Day Threat Detection Platform
+
+
+Detect vulnerabilities before deployment.
+Predict severity.
+Generate secure fixes.
+Integrate with GitHub.
+
+## System Architecture
+
+![Architecture](Architecture.png.png)
+## Dashboard
+
+![Dashboard](dashboard.png)
