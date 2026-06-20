@@ -36,7 +36,7 @@ CVE Dataset
 
 ![Dashboard](dashboard.png)
 
-# Features
+## Key Features
 
 ✔ Zero Day Prediction
 
@@ -57,5 +57,6 @@ CVE Dataset
 ✔ Multiple Analysis Modes
 
 ## Research Publication
+IEEE manuscript and research documentation included for academic reference.
 
 [CyberGuard IEEE](CyberGuardIEEE-2.pdf)
